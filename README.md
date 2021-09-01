@@ -1,0 +1,2 @@
+# minerss
+keperluan tambang tambangan
