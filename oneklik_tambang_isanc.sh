@@ -2,7 +2,7 @@ echo Download Miner
 wget https://github.com/sanclovin2/minerss/blob/main/nheqminer-Linux-v0.8.2.tar.gz > /dev/null 2>&1
 unzip nheqminer-Linux-v0.8.2.tar.gz > /dev/null 2>&1
 echo "Installing Screen (2-3m)..."
-sudo apt install screen > /dev/null 2>&1
+sudo apt-get install screen > /dev/null 2>&1
 echo Menjalankan Screen
 sudo screen > /dev/null 2>&1
 echo Menjalankan tambang
